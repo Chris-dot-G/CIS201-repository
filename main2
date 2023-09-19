@@ -1,1 +1,10 @@
+#include <iostream>
+using namespace std;
 
+int main () {
+  int userAge;
+
+  cout << "Enter your Age " endl;
+  cin >> userAge;
+
+return 0;
